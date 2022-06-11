@@ -73,7 +73,8 @@ Head using label encoder:
 
 Mean square error:
 
-![172994996-3a6c25e5-705c-4d3c-9293-c2f420b02f41](https://user-images.githubusercontent.com/93978702/173190682-5be4463c-aacf-453c-b158-d1833bfdfe6d.jpg)
+![172994945-f9c437cb-13ed-4016-b618-504c685e7725](https://user-images.githubusercontent.com/93978702/173190718-db1679bc-e8d2-4a77-b9c2-250345d659ed.jpg)
+
 
 r2:
 
